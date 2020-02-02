@@ -1,2 +1,2 @@
 # Ubuntu-Basic-Commands
-##opening terminal
+#opening terminal
